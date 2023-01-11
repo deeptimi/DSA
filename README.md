@@ -5,3 +5,24 @@ Virtually or in real life , we would store that data in some way so that it gets
 When we have our data stored in data structures , now we follow some steps to solve the problem and algorithm helps us with it. 
 Time and space are precious so it gets really important to understand how the algorithm is using time and how much space of limited computer memory.
 ## DSA is fun!
+## Data Structure: 
++ Array
++ String
++ Matrix
++ Linked List
++ Stack
++ Queue
++ Tree
++ Graph
+## Algorithms: 
++ Searching
++ Sorting
++ Hashing
++ Prefix sum
++ Suffix Sum
++ Greedy
++ Recursion
++ Backtracking
++ Tree and Graph traversals
++ Dynamic Programming
++ Advanced algorithms on tree and graph
